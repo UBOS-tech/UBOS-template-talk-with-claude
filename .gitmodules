@@ -1,0 +1,8 @@
+[submodule "UBOS-template-talk-with-claude-ui"]
+	path = UBOS-template-talk-with-claude-ui
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-talk-with-claude-ui.git
+	branch = main
+[submodule "UBOS-template-talk-with-claude-nr"]
+	path = UBOS-template-talk-with-claude-nr
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-talk-with-claude-nr.git
+branch = origin
